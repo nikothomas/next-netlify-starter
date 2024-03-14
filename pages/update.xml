@@ -1,0 +1,15 @@
+    <installerInformation>
+       <versionId>200</versionId>
+       <version>2.0.0</version>
+       <platformFileList>
+	   <platformFile>
+	       <filename>AutoIEP-1.0-windows-x64-installer.exe</filename>
+	       <platform>windows</platform>
+	   </platformFile>
+       </platformFileList>
+       <downloadLocationList>
+	   <downloadLocation>
+	       <url>http://127.0.0.1:8080/downloads/</url>
+	   </downloadLocation>
+       </downloadLocationList>
+    </installerInformation>
