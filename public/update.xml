@@ -9,7 +9,7 @@
        </platformFileList>
        <downloadLocationList>
 	   <downloadLocation>
-	       <url>http://127.0.0.1:8080/downloads/</url>
+	       <url>http://resilient-sopapillas-fdb91f.netlify.app/pages/</url>
 	   </downloadLocation>
        </downloadLocationList>
     </installerInformation>
