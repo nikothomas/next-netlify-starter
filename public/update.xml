@@ -1,6 +1,6 @@
     <installerInformation>
        <versionId>111</versionId>
-       <version>1.1</version>
+       <version>1.11</version>
        <platformFileList>
 	   <platformFile>
 	       <filename>AutoIEP-1.11-windows-x64-installer.exe</filename>
