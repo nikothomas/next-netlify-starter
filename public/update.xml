@@ -1,9 +1,9 @@
     <installerInformation>
-       <versionId>122</versionId>
-       <version>1.22</version>
+       <versionId>123</versionId>
+       <version>1.23</version>
        <platformFileList>
 	   <platformFile>
-	       <filename>AutoIEP-1.22-windows-x64-installer.exe</filename>
+	       <filename>AutoIEP-1.23-windows-x64-installer.exe</filename>
 	       <platform>windows</platform>
 	   </platformFile>
        </platformFileList>
